@@ -1,4 +1,4 @@
-# I'm making an app [DeltArch](https://github.com/volkanturkut/DeltArch) meanwhile you can use [skin2overlay](https://www.warmenhoven.org/skin2overlay)
+# I'm making an app [DeltArch](https://github.com/volkanturkut/DeltArch) , meanwhile you can use [skin2overlay](https://www.warmenhoven.org/skin2overlay)
 
 # DeltArch
 > Delta controller skins on RetroArch.
